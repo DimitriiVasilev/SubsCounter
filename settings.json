@@ -1,0 +1,13 @@
+{
+  "access_token": "PUT YOUR TOKEN HERE",
+  "communities": {
+    "rambler/news": 97751087,
+    "rambler/mail": 36023798,
+    "rambler/horoscopes": 86125491,
+    "championat": 1331201,
+    "championat.auto": 147610669,
+    "championat.cybersport": 77903189,
+    "livejournal": 25072924,
+    "afisha": 1672730
+  }
+}
